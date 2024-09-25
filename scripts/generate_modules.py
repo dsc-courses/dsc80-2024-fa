@@ -97,7 +97,7 @@ def number_events(df):
     # [2] Projects
     regular_projects = (
         df.query('event_type == "Project Due"')["title"]
-        .str.extract(r"Project (\d+)")
+        .str.extract(r"Project (\d+)")[0]
         .dropna()
     )
     project_numbers = "PROJ " + regular_projects
@@ -176,7 +176,9 @@ def write_into_module_files(
     def write_week_module_file(week_df):
         week = int(week_df["week"].iloc[0])
         week_title = week_df["week_title"].iloc[0]
-        date_events = week_df.groupby("date").apply(make_days)
+        date_events = week_df.groupby("date").apply(
+            make_days, include_groups=False
+        )
         days = [
             {"date": date.strftime(r"%Y-%m-%d"), "events": events}
             for date, events in date_events.items()
@@ -194,7 +196,7 @@ def write_into_module_files(
             f.writelines(["---\n", week_data, "---\n"])
         print(f"Wrote: {module_file_path}")
 
-    return df.groupby("week").apply(write_week_module_file)
+    return df.groupby("week")[df.columns].apply(write_week_module_file)
 
 
 if __name__ == "__main__":

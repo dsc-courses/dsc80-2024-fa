@@ -29,13 +29,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   💻 GitHub:
-    - ''
+    - 'https://github.com/dsc-courses/dsc80-2024-fa'
   🙋 Ed:
-    - ''
+    - 'https://edstem.org/us/join/wh9rbh'
   💯 Gradescope:
-    - ''
+    - 'https://www.gradescope.com/courses/877914'
   💪 Practice:
-    - ''
+    - 'https://practice.dsc80.com/'
   🤔 Lecture Questions:
     - ''
 footer_content:
