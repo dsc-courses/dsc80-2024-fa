@@ -6,6 +6,8 @@ description: >-
 nav_order: 2
 ---
 
+<!-- prettier-ignore-start -->
+
 # 📖 Syllabus
 {:.no_toc}
 
@@ -14,6 +16,8 @@ nav_order: 2
 
 1. TOC
 {:toc}
+
+<!-- prettier-ignore-end -->
 
 [ed]: https://edstem.org/us/join/zk8hRm
 [gradescope]: https://www.gradescope.com/courses/698219
@@ -111,7 +115,7 @@ post instead.**
 
 Lectures will be held in-person on Tuesdays and Thursdays from 9:30-10:50AM
 (A00) and 11:00AM-12:20PM (B00) in <a
-href="https://map.concept3d.com/?id=1005#!m/237174">Peterson Hall</a> 103.
+href="https://map.concept3d.com/?id=1005#!m/237176?share">Cognitive Science</a> 002.
 Lectures will be podcasted.
 
 **New**{: .label .label-green } In the Welcome Survey at the start of the
@@ -139,25 +143,24 @@ are not required, in that you won't be tested on anything that appears only in
 the readings but not in lectures or assignments, but you should still complete
 them to supplement your understanding!
 
-### Discussions and Exam Prep
+### Discussions
 
-Discussions will be held in-person on Mondays 4:00-4:50PM in Peterson Hall 103
-and Fridays 6:00-6:50PM in Peterson Hall 102. Discussion sections will be
-podcasted.
+We will not be using the scheduled discussion times for this course. Instead, we
+will post Exam Prep worksheets with suggested questions from past exams.
 
-**New**{: .label .label-green } In past offerings of DSC 80, students often
+<!-- **New**{: .label .label-green } In past offerings of DSC 80, students often
 wished for more opportunities to practice the types of questions that will be
 asked on the midterm and final exams. To address this, we will be using
 discussions as **exam prep**. In the Welcome Survey at the start of the quarter,
 you will have the option of opting into discussion or opting out. If you choose
 to opt in, discussions will be worth 5% of your overall
 grade. If you choose to opt out, discussion will be worth 0%, and your midterm
-and final exam grade will each be worth 2.5% more.
+and final exam grade will each be worth 2.5% more. -->
 
-In each discussion, the TA will prepare a worksheet of exam questions. You will
+<!-- In each discussion, the TA will prepare a worksheet of exam questions. You will
 receive credit for discussion for a particular week if you attend the discussion
 in person and complete the worksheet. Attending at least 8 discussions during
-the 10-week quarter will earn full credit for discussion.
+the 10-week quarter will earn full credit for discussion. -->
 
 ### Labs
 
@@ -169,8 +172,7 @@ are usually provided so that you can make sure that you\'re on the right track
 autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped when
-calculating your final score. Labs will usually be released on Wednesdays and due on
-**Wednesdays at 11:59PM**.
+calculating your final score.
 
 You will access labs (and projects) by pulling the course GitHub repository.
 
@@ -191,8 +193,7 @@ easy points.
 The Final Project will be due during finals week and can be thought of as a
 practical component of the Final Exam.
 
-Note that, unlike labs, the lowest project score is not dropped. Projects and
-project checkpoints will usually be due on **Fridays at 11:59PM**.
+Note that, unlike labs, the lowest project score is not dropped.
 
 **Working in Pairs**
 
@@ -240,11 +241,10 @@ schedule and instructions.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
-| Sunday | Monday     | Tuesday | Wednesday                                     | Thursday | Friday                                            | Saturday |
-| ------ | ---------- | ------- | --------------------------------------------- | -------- | ------------------------------------------------- | -------- |
-|        |            | Lecture |                                               | Lecture  |                                                   |          |
-|        | Discussion |         |                                               |          | Discussion                                        |          |
-|        |            |         | <span style='color:red'><b>Lab due</b></span> |          | <span style='color:red'><b>Project due</b></span> |          |
+| Monday | Tuesday | Wednesday                                         | Thursday | Friday                                        |
+| ------ | ------- | ------------------------------------------------- | -------- | --------------------------------------------- |
+|        | Lecture |                                                   | Lecture  |                                               |
+|        |         | <span style='color:red'><b>Project due</b></span> |          | <span style='color:red'><b>Lab due</b></span> |
 
 ---
 
@@ -253,14 +253,18 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: Thursday, May 2nd, 9:30-10:50PM and 11:00AM-12:20PM in
-  Peterson 103 (during lecture)
+**New**{: .label .label-green } This quarter, exams will be held in the UCSD
+Computer-Based Testing Facility (CBTF) in AP&M B349. You will use a computer to
+do the exams! To take the exam, you must schedule your exam slot in the CBTF at
+any available slot during the time windows below. The details of exam slot
+signups will be sent in an Ed post and email announcement.
 
-- **Final Exam:** Saturday, June 8th, 8AM-11AM. Location is TBD.
+- **Midterm Exam**: Monday, Oct 28 - Friday, Nov 2
 
-**Both exams will be administered in-person**. If you have conflicts with either
-of the exams, please let us know on the [Exam Accommodations
-Form][exam-accommodations].
+- **Final Exam:** Monday, Dec 9 - Friday, Dec 14
+
+**Both exams will be administered in-person in the CBTF**. Exam questions will
+be randomized.
 
 ### Redemption Policy
 
@@ -292,7 +296,6 @@ Here is how we'll compute your grade:
 | Midterm Exam        | 20%    | see the Redemption Policy above                                            |
 | Final Exam          | 30%    |                                                                            |
 | Lecture Attendance  | 0%     | If opted in, counts as 5% and reduces Midterm and Final Exam by 2.5% each. |
-| Discussion          | 0%     | If opted in, counts as 5% and reduces Midterm and Final Exam by 2.5% each. |
 
 ### Late Policy
 
@@ -318,8 +321,8 @@ completing the rest of the course before approving further extension requests.
 Form before the assignment deadline, the submission will not be accepted and you
 will receive a 0.**
 
-Note that we will not grant deadline extensions for the Final Project deadline
-of June 8.
+Note that we will not grant deadline extensions for Project Checkpoint deadlines
+and the Final Project deadline.
 
 ### Redemption Policy for Labs and Projects
 
@@ -327,7 +330,7 @@ of June 8.
 policy to make up for lost points on your original submission. After the
 original deadline passes for an assignment, we will publish the autograder
 result for your latest submission before the assignment deadline. You may then
-submit the assignment as many times as you'd like before the final exam to
+submit the assignment within a week of the original assignment deadline to
 redeem up to 80% of the points you lost on the original submission.
 
 Example: Suppose that after grades were released for the Project 1 deadline, Sam
@@ -337,39 +340,6 @@ would then be 98% (0.8 \* (100% - 90%) + 90% = 98%).
 
 Note that this redemption policy does not apply to project checkpoints, or the
 Final Project.
-
-<!--
-You have **7 "slip days"** (up from 6) to use throughout the quarter. A slip day extends
-the deadline of an assignment by 24 hours. The number of slip days you can use
-on an assignment depends on the kind of assignment:
-
-- On labs, you may use up to 1 slip day. Labs will not be accepted more than 24
-  hours after the deadline. Note that you will not be able to use slip days on Labs 1 and 6, but their deadlines will be extended.
-- On projects and project checkpoints, you may use up to 2 slip days. These
-  assignments will not be accepted more than 48 hours after the deadline. Note
-  that you will not be able to use slip days on Project 4 (which is due on Thursday, March 21st, no exceptions). -->
-
-<!-- Slip days are designed to be a transparent and predictable source of leniency
-in deadlines. You can use a slip day if you are too busy to complete an
-assignment on its original due date (or if you forgot about it). But slip days
-are also meant for things like the internet going down at 11:58PM just as you
-go to submit your assignment. Slip days are meant to be used in exceptional
-circumstances, so **you probably should not need to use all 6, but if you have
-something going on in your life that is impeding your ability to do your
-classwork on time, please reach out to us as soon as possible so we can work
-something out**.
-
-**Slip days are applied automatically at the end of the quarter, and you don’t
-need to ask in order to use one.** It’s your responsibility to keep track of
-how many you have left. If you’ve run out of slip days and submit an assignment
-late, that assignment may still be graded, but you will receive a 0 on it when
-we calculate grades at the end of the quarter. However, in the event that you
-use all 6 days and submit another assignment late, we will allocate your slip
-days first to your projects (in chronological order), then to your labs (in
-chronological order), and then to other assignments. This is done to prevent
-you from receiving a 0 on, say, Project 3, if you've used all of your slip days
-on labs up until that point; in such a case, you’d instead receive a 0 on an
-earlier lab that isn’t weighted as much in your grade. -->
 
 ### Regrade Requests
 
@@ -398,21 +368,6 @@ wait around to see the output of the Gradescope grader and ensure that it runs
 properly. Also, be sure to submit your assignment (or at least part of it) to
 Gradescope with enough time before the deadline to get help if there is a
 strange autograder problem.
-
-<!-- In the case that you submit code that doesn't run and discover this at a later
-date, you have some options:
-
-1.  If it is still before the late deadline, you may use slip days to fix your
-    code and re-submit. Note that you're free to do this even if your code runs
-    – this is just making use of the normal slip day mechanism to submit an
-    assignment late.
-2.  If it is past the late deadline **and** your code requires only minor fixes
-    (e.g., the file name is wrong) we will fix your code at the cost of **2**
-    slip days. Note that these slip days are in addition to any slip days you
-    already used on the assignment. You can submit a catastrophe regrade
-    request the same way you submit a regular autograder regrade request, by
-    filling out the [Autograder Regrade Request
-    Form](https://docs.google.com/forms/d/e/1FAIpQLSdQKoCJPxw2i3Dtn-ITZ_fkY3Rb46Pic6HyrDG6sgmXJnvc5w/viewform). -->
 
 ### Incompletes
 
