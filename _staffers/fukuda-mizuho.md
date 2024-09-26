@@ -1,13 +1,13 @@
 ---
 name: Mizuho Fukuda
-role: Tutor
+role: TA
 pronouns: she/her
 email: mfukuda@ucsd.edu
-photo: assets/staff-images/fukuda-mizuho.jpg
-description: 4th year, Cognitive Science ML, Data Science minor, ERC
+photo: assets/staff-images/mizuho.jpg
+description: 1st year MS, Data Science
 hometown: Tokyo, Japan
-askabout: Knitting and crocheting :)
+askabout: knitting, crocheting, applying to grad school
 foodemoji: 🥘
-food: Costa Brava, Ironside Fish & Oyster, Cesarina
+food: costa brava, ironside fish & oyster, cesarina
 
 ---
