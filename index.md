@@ -25,8 +25,9 @@ nav_order: 1
 
 [Podcasts](https://podcast.ucsd.edu/){: .btn }
 [Welcome Survey][welcome-survey]{: .btn }
-[Exam Accommodations Form][exam-accommodations]{: .btn }
-[Extension Request Form][extension-request-form]{: .btn }
+
+<!-- [Exam Accommodations Form][exam-accommodations]{: .btn }
+[Extension Request Form][extension-request-form]{: .btn } -->
 
 <!-- Click the 🎥 button to view the recording of a lecture/discussion.<br>Click the 📝 button to view lecture notebooks after they've been filled in during lecture. -->
 
