@@ -31,7 +31,7 @@ There has been a lot written about how to set up a Python environment, so we won
 
 ## Environments and Package Managers
 
-For this class, the software you'll need includes Python 3.8, a few specific Python packages, Git, and a text editor.
+For this class, the software you'll need includes Python 3.12, a few specific Python packages, Git, and a text editor.
 
 Gradescope has an **environment** which it uses to autograde your work. You can think of an environment as a combination of a Python version and _specific_ versions of Python packages that is isolated from the rest of your computer. In practice, developers create different environments for different projects, so that they can use different versions of packages in different projects.
 
@@ -227,7 +227,7 @@ Many students like to use VSCode to edit Jupyter Notebooks. If that's you, then 
     <center><img src="../assets/images/ts-select-kernel.png" width=150></center>
 1. Click "Python Environments" in the toolbar that appears in the middle.
     <center><img src="../assets/images/ts-python-environments.png" width=300></center>
-1. Finally, click "dsc80 (Python 3.8.18)".
+1. Finally, click "dsc80 (Python 3.12.6)".
     <center><img src="../assets/images/ts-dsc80-conda.png" width=500></center>
 
 <!-- ## Working Remotely via DataHub
