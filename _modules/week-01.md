@@ -20,6 +20,7 @@ days:
         type: lab
         title: Python, NumPy, and Pandas
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab01
       - name: PREP 1
         type: disc
         title: Environment Setup, Exam Prep 1
