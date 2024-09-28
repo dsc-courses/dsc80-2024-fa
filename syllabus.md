@@ -19,10 +19,10 @@ nav_order: 2
 
 <!-- prettier-ignore-end -->
 
-[ed]: https://edstem.org/us/join/zk8hRm
-[gradescope]: https://www.gradescope.com/courses/698219
-[github]: https://github.com/dsc-courses/dsc80-2024-sp
-[welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8
+[ed]: https://edstem.org/us/join/wh9rbh
+[gradescope]: https://www.gradescope.com/courses/877914
+[github]: https://github.com/dsc-courses/dsc80-2024-fa
+[welcome-survey]: https://forms.gle/reSnHNVvjGN2ao8UA
 [exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
 [extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9
 
