@@ -124,9 +124,9 @@ out. If you choose to opt in, lecture attendance will be worth 5% of your
 overall grade. If you choose to opt out, attendance will be worth 0%, and your
 midterm and final exam grade will each be worth 2.5% more. To receive lecture
 attendance for a given week, you must attend and participate in the in-lecture
-activities for both lectures that week. You will receive full credit for lecture
-attendance for the quarter if you attend at least 8 weeks of lecture during the
-10 week quarter.
+activities for both lectures that week. Each lecture will be weighted equally
+towards the lecture attendance portion of your grade, with 4 missed lectures
+allowed without penalty.
 
 Lecture notebooks will be your main resource in this class. You can access them,
 along with all course materials, by pulling from the [course GitHub
