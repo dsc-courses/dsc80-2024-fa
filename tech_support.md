@@ -150,7 +150,7 @@ There are Git GUIs, and you can use them for this class. You can also
 use the command-line version of Git. To get started, you\'ll need to
 \"clone\" the course repository. The command to do this is:
 
-    git clone https://github.com/dsc-courses/dsc80-2024-sp
+    git clone https://github.com/dsc-courses/dsc80-2024-fa
 
 This will copy the repository to a directory on your computer. You should only need to do this once.
 
