@@ -10,6 +10,7 @@ days:
         blank: resources/lectures/lec02/lec02-live.html
         filled: resources/lectures/lec02/lec02.html
         reading: '[Ch. 6, 6.1](https://learningds.org/ch/06/pandas_intro.html)'
+        podcast: https://youtu.be/xHUzCXgLGHk
   - date: '2024-10-03'
     events:
       - name: LEC 3
