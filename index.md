@@ -19,12 +19,13 @@ nav_order: 1
 [github]: https://github.com/dsc-courses/dsc80-2024-fa
 [welcome-survey]: https://forms.gle/9JdiAnu75D7T7MAu7
 [exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
-[extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9
+[extension-request-form]: https://forms.gle/F5k5VuVLq5DPkqw78
 
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
 
 [Podcasts](https://podcast.ucsd.edu/){: .btn }
 [Welcome Survey][welcome-survey]{: .btn }
+[Extension Request Form][extension-request-form]{: .btn }
 
 <!-- [Exam Accommodations Form][exam-accommodations]{: .btn }
 [Extension Request Form][extension-request-form]{: .btn } -->
