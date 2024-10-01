@@ -7,6 +7,8 @@ days:
       - name: LEC 2
         type: lecture
         title: DataFrame Fundamentals
+        blank: resources/lectures/lec02/lec02-live.html
+        filled: resources/lectures/lec02/lec02.html
         reading: '[Ch. 6, 6.1](https://learningds.org/ch/06/pandas_intro.html)'
   - date: '2024-10-03'
     events:
