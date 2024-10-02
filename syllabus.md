@@ -24,7 +24,7 @@ nav_order: 2
 [github]: https://github.com/dsc-courses/dsc80-2024-fa
 [welcome-survey]: https://forms.gle/reSnHNVvjGN2ao8UA
 [exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
-[extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9
+[extension-request-form]: https://forms.gle/F5k5VuVLq5DPkqw78
 
 ## About 🧐
 
