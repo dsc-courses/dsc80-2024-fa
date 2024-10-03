@@ -12,6 +12,7 @@ days:
         type: proj
         title: Project 1
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/projects/project01
   - date: '2024-10-17'
     events:
       - name: LEC 7
