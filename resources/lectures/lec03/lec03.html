@@ -9609,7 +9609,7 @@ dtype: int64</pre>
 <span class="k">for</span> <span class="n">species</span> <span class="ow">in</span> <span class="n">penguins</span><span class="p">[</span><span class="s1">'species'</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">():</span>
     <span class="n">species_only</span> <span class="o">=</span> <span class="n">penguins</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">penguins</span><span class="p">[</span><span class="s1">'species'</span><span class="p">]</span> <span class="o">==</span> <span class="n">species</span><span class="p">]</span>
     <span class="n">species_map</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">species</span><span class="p">]</span> <span class="o">=</span> <span class="n">species_only</span><span class="p">[</span><span class="s1">'body_mass_g'</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
-    
+
 <span class="n">species_map</span>
 </pre></div>
 </div>
@@ -11300,7 +11300,7 @@ Name: bill_length_mm, dtype: float64</pre>
 <span class="k">for</span> <span class="n">species</span> <span class="ow">in</span> <span class="n">penguins</span><span class="p">[</span><span class="s1">'species'</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">():</span>
     <span class="n">species_only</span> <span class="o">=</span> <span class="n">penguins</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">penguins</span><span class="p">[</span><span class="s1">'species'</span><span class="p">]</span> <span class="o">==</span> <span class="n">species</span><span class="p">]</span>
     <span class="n">species_map</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">species</span><span class="p">]</span> <span class="o">=</span> <span class="n">species_only</span><span class="p">[</span><span class="s1">'body_mass_g'</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
-    
+
 <span class="n">species_map</span>
 </pre></div>
 </div>
@@ -11601,6 +11601,19 @@ Adelie       637.5
 Chinstrap    462.5
 Gentoo       800.0
 Name: body_mass_g, dtype: float64</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=d9e556c9">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<div class="alert alert-success">
+<h3>We ended lecture here; remaining content moved to next lecture.</h3>
 </div>
 </div>
 </div>
@@ -13724,8 +13737,8 @@ Name: (Adelie, Torgersen), dtype: float64</pre>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">penguins</span><span class="o">.</span><span class="n">pivot_table</span><span class="p">(</span>
-    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span> 
-    <span class="n">columns</span><span class="o">=</span><span class="s1">'island'</span><span class="p">,</span> 
+    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span>
+    <span class="n">columns</span><span class="o">=</span><span class="s1">'island'</span><span class="p">,</span>
     <span class="n">values</span><span class="o">=</span><span class="s1">'bill_length_mm'</span><span class="p">,</span> <span class="c1"># Choice of column here doesn't actually matter!</span>
     <span class="n">aggfunc</span><span class="o">=</span><span class="s1">'count'</span><span class="p">,</span>
 <span class="p">)</span>
@@ -13817,9 +13830,9 @@ Name: (Adelie, Torgersen), dtype: float64</pre>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">penguins</span><span class="o">.</span><span class="n">pivot_table</span><span class="p">(</span>
-    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span> 
-    <span class="n">columns</span><span class="o">=</span><span class="s1">'island'</span><span class="p">,</span> 
-    <span class="n">values</span><span class="o">=</span><span class="s1">'bill_length_mm'</span><span class="p">,</span> 
+    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span>
+    <span class="n">columns</span><span class="o">=</span><span class="s1">'island'</span><span class="p">,</span>
+    <span class="n">values</span><span class="o">=</span><span class="s1">'bill_length_mm'</span><span class="p">,</span>
     <span class="n">aggfunc</span><span class="o">=</span><span class="s1">'count'</span><span class="p">,</span>
     <span class="n">fill_value</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
 <span class="p">)</span>
@@ -13911,9 +13924,9 @@ Name: (Adelie, Torgersen), dtype: float64</pre>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">penguins</span><span class="o">.</span><span class="n">pivot_table</span><span class="p">(</span>
-    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span> 
-    <span class="n">columns</span><span class="o">=</span><span class="s1">'island'</span><span class="p">,</span> 
-    <span class="n">values</span><span class="o">=</span><span class="s1">'bill_length_mm'</span><span class="p">,</span> 
+    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span>
+    <span class="n">columns</span><span class="o">=</span><span class="s1">'island'</span><span class="p">,</span>
+    <span class="n">values</span><span class="o">=</span><span class="s1">'bill_length_mm'</span><span class="p">,</span>
     <span class="n">aggfunc</span><span class="o">=</span><span class="s1">'count'</span><span class="p">,</span>
     <span class="n">fill_value</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
 <span class="p">)</span>
@@ -14049,10 +14062,10 @@ Name: (Adelie, Torgersen), dtype: float64</pre>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">counts</span> <span class="o">=</span> <span class="n">penguins</span><span class="o">.</span><span class="n">pivot_table</span><span class="p">(</span>
-    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span> 
-    <span class="n">columns</span><span class="o">=</span><span class="s1">'sex'</span><span class="p">,</span> 
-    <span class="n">values</span><span class="o">=</span><span class="s1">'body_mass_g'</span><span class="p">,</span> 
-    <span class="n">aggfunc</span><span class="o">=</span><span class="s1">'count'</span><span class="p">,</span> 
+    <span class="n">index</span><span class="o">=</span><span class="s1">'species'</span><span class="p">,</span>
+    <span class="n">columns</span><span class="o">=</span><span class="s1">'sex'</span><span class="p">,</span>
+    <span class="n">values</span><span class="o">=</span><span class="s1">'body_mass_g'</span><span class="p">,</span>
+    <span class="n">aggfunc</span><span class="o">=</span><span class="s1">'count'</span><span class="p">,</span>
     <span class="n">fill_value</span><span class="o">=</span><span class="mi">0</span>
 <span class="p">)</span>
 <span class="n">counts</span>
@@ -14291,7 +14304,7 @@ Name: (Adelie, Torgersen), dtype: float64</pre>
 <div class="jp-InputPrompt jp-InputArea-prompt">In [85]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Recall, joint.sum(axis=0) sums across the rows, </span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Recall, joint.sum(axis=0) sums across the rows,</span>
 <span class="c1"># which computes the sum of the **columns**.</span>
 <span class="n">joint</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
 </pre></div>
