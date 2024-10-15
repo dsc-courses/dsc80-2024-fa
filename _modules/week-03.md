@@ -25,9 +25,9 @@ days:
         type: lab
         title: DataFrame Manipulation
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab03
       - name: PREP 3
         type: disc
         title: Exam Prep 3
         reading: ''
-        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab03
 ---
