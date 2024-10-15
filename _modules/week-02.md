@@ -29,6 +29,7 @@ days:
         type: lab
         title: More Pandas
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab02
       - name: PREP 2
         type: disc
         title: Exam Prep 2

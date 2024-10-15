@@ -29,4 +29,5 @@ days:
         type: disc
         title: Exam Prep 3
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab03
 ---
