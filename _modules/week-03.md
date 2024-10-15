@@ -7,7 +7,9 @@ days:
       - name: LEC 6
         type: lecture
         title: Hypothesis and Permutation Testing
-        reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
+        blank: resources/lectures/lec06/lec06-live.html
+        filled: resources/lectures/lec06/lec06.html
+        reading: '[Pre-lecture review](resources/lectures/lec06/pre-lec06.html), [Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
       - name: PROJ 1
         type: proj
         title: Project 1
