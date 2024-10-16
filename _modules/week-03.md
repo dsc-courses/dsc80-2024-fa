@@ -20,7 +20,9 @@ days:
       - name: LEC 7
         type: lecture
         title: Missingness Mechanisms
-        reading: '[A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)'
+        blank: resources/lectures/lec07/lec07-live.html
+        filled: resources/lectures/lec07/lec07.html
+        reading: '[Fast Permutation Tests](resources/lectures/lec07/lec07-fast-permutation-tests.html), [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)'
   - date: '2024-10-18'
     events:
       - name: LAB 3
