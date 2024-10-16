@@ -12,6 +12,7 @@ days:
         type: proj
         title: Project 2 checkpoint
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/projects/project02
   - date: '2024-10-24'
     events:
       - name: LEC 9
