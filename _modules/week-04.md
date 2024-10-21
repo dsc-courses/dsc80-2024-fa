@@ -7,6 +7,8 @@ days:
       - name: LEC 8
         type: lecture
         title: Imputation
+        blank: resources/lectures/lec08/lec08-live.html
+        filled: resources/lectures/lec08/lec08.html
         reading: '[DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)'
       - name: PROJ 2
         type: proj
