@@ -20,6 +20,8 @@ days:
       - name: LEC 9
         type: lecture
         title: HTTP Basics
+        blank: resources/lectures/lec09/lec09-live.html
+        filled: resources/lectures/lec09/lec09.html
         reading: '[Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)'
   - date: '2024-10-25'
     events:
