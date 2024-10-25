@@ -20,12 +20,14 @@ days:
         reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
   - date: '2024-11-15'
     events:
-      - name: PREP 7
-        type: disc
-        title: Exam Prep 7
-        reading: ''
       - name: LAB 7
         type: lab
         title: Regular Expressions and Text Data
         reading: ''
+      - name: PREP 7
+        type: disc
+        title: Exam Prep 7
+        reading: ''
+        blank: discussions/disc07/disc07_worksheet.pdf
+        filled: discussions/disc07/disc07.pdf
 ---

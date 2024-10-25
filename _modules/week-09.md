@@ -17,12 +17,14 @@ days:
       - markdown_content: 'NO LECTURE: Thanksgiving break'
   - date: '2024-11-29'
     events:
-      - name: PREP 9
-        type: disc
-        title: Exam Prep 9
-        reading: ''
       - name: LAB 9
         type: lab
         title: Pipelines
         reading: ''
+      - name: PREP 9
+        type: disc
+        title: Exam Prep 9
+        reading: ''
+        blank: discussions/disc09/disc09_worksheet.pdf
+        filled: discussions/disc09/disc09.pdf
 ---

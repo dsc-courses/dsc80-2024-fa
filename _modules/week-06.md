@@ -26,12 +26,14 @@ days:
         reading: '[Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)'
   - date: '2024-11-08'
     events:
-      - name: PREP 6
-        type: disc
-        title: Exam Prep 6
-        reading: ''
       - name: LAB 6
         type: lab
         title: HTTP and HTML
         reading: ''
+      - name: PREP 6
+        type: disc
+        title: Exam Prep 6
+        reading: ''
+        blank: discussions/disc06/disc06_worksheet.pdf
+        filled: discussions/disc06/disc06_solutions.pdf
 ---

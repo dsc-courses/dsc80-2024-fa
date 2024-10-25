@@ -30,4 +30,6 @@ days:
         type: disc
         title: Exam Prep 5
         reading: ''
+        blank: discussions/disc05/disc05_worksheet.pdf
+        filled: discussions/disc05/disc05_filled.pdf
 ---

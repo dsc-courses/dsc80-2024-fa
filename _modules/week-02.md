@@ -34,4 +34,6 @@ days:
         type: disc
         title: Exam Prep 2
         reading: ''
+        blank: discussions/disc02/disc02_worksheet.pdf
+        filled: discussions/disc02/disc02_filled.pdf
 ---

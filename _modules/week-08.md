@@ -20,12 +20,14 @@ days:
         reading: '[A1](resources/other/15097-decision-trees.pdf)'
   - date: '2024-11-22'
     events:
-      - name: PREP 8
-        type: disc
-        title: Exam Prep 8
-        reading: ''
       - name: LAB 8
         type: lab
         title: Modeling and Feature Engineering
         reading: ''
+      - name: PREP 8
+        type: disc
+        title: Exam Prep 8
+        reading: ''
+        blank: discussions/disc08/disc08_worksheet.pdf
+        filled: discussions/disc08/disc08.pdf
 ---

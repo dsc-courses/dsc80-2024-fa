@@ -30,4 +30,6 @@ days:
         type: disc
         title: Environment Setup, Exam Prep 1
         reading: ''
+        blank: discussions/disc01/disc01_worksheet.pdf
+        filled: discussions/disc01/disc01_worksheet_filled.pdf
 ---

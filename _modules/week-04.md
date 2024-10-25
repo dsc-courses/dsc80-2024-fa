@@ -25,12 +25,14 @@ days:
         reading: '[Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)'
   - date: '2024-10-25'
     events:
-      - name: PREP 4
-        type: disc
-        title: Exam Prep 4
-        reading: ''
       - name: LAB 4
         type: lab
         title: Hypothesis and Permutation Testing
         reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
+      - name: PREP 4
+        type: disc
+        title: Exam Prep 4
+        reading: ''
+        blank: discussions/disc04/disc04_worksheet.pdf
+        filled: discussions/disc04/disc04_solutions.pdf
 ---

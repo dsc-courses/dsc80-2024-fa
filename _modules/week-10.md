@@ -16,10 +16,6 @@ days:
         reading: ''
   - date: '2024-12-06'
     events:
-      - name: PREP 10
-        type: disc
-        title: Exam Prep 10
-        reading: ''
       - name: FINAL PROJ
         type: proj
         title: Final Project
