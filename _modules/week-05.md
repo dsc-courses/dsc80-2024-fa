@@ -12,6 +12,8 @@ days:
       - name: LEC 10
         type: lecture
         title: Web Scraping
+        blank: resources/lectures/lec10/lec10-live.html
+        filled: resources/lectures/lec10/lec10.html
         reading: '[Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)'
       - name: PROJ 2
         type: proj
@@ -26,6 +28,10 @@ days:
         reading: '[Ch. 13](https://learningds.org/ch/13/text_intro.html)'
   - date: '2024-11-01'
     events:
+      - name: LAB 5
+        type: lab
+        title: Missing Values and Imputation
+        reading: ''
       - name: PREP 5
         type: disc
         title: Exam Prep 5
