@@ -8,6 +8,7 @@ days:
         type: proj
         title: Project 3 checkpoint
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/projects/project03
       - name: LEC 12
         type: lecture
         title: Text Features
