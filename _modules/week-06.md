@@ -2,6 +2,11 @@
 title: "Week 6 \u2013 Web data"
 weekNumber: 6
 days:
+  - date: '2024-11-04'
+      - name: LAB 5
+        type: lab
+        title: Missing Values and Imputation
+        reading: ''
   - date: '2024-11-05'
     events:
       - name: PROJ 3

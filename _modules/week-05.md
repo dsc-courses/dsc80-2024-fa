@@ -28,10 +28,6 @@ days:
         reading: '[Ch. 13](https://learningds.org/ch/13/text_intro.html)'
   - date: '2024-11-01'
     events:
-      - name: LAB 5
-        type: lab
-        title: Missing Values and Imputation
-        reading: ''
       - name: PREP 5
         type: disc
         title: Exam Prep 5
