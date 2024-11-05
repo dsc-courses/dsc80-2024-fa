@@ -18,6 +18,8 @@ days:
       - name: LEC 12
         type: lecture
         title: Text Features
+        blank: resources/lectures/lec12/lec12-live.html
+        filled: resources/lectures/lec12/lec12.html
         reading: '[Ch. 13.4](https://learningds.org/ch/13/text_sotu.html)'
   - date: '2024-11-07'
     events:
