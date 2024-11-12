@@ -28,7 +28,7 @@ As your final deliverables, you'll submit two things to us: a **public-facing we
 
 {: .green }
 > **Final Project is due on Friday, December 6th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
-> The Final Project does also have two checkpoints, which is due on **Tuesday, November 19th** and **Tuesday, November 26th**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/759147/assignments/4503144/) and [checkpoint 2](https://www.gradescope.com/courses/759147/assignments/4509099/) on Gradescope; make sure to tag your partner if you have one.
+> The Final Project does also have two checkpoints, which is due on **Tuesday, November 19th** and **Tuesday, November 26th**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#submission-and-rubric) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/877914/assignments/5313145/) and [checkpoint 2](https://www.gradescope.com/courses/877914/assignments/5313131/) on Gradescope; make sure to tag your partner if you have one.
 
 The project is broken into two parts:
 
@@ -74,7 +74,7 @@ Before choosing a dataset, read the rest of this page to see what's required of 
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the [`dsc80-2024-fa`](https://github.com/dsc-courses/dsc80-2024-fa/) repo. Within the `projects/project04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-sp/blob/main/projects/04-The%20Data%20Science%20Lifecycle/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2024-fa`](https://github.com/dsc-courses/dsc80-2024-fa/) repo. Within the `projects/project04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-fa/blob/main/projects/project04/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the three [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -280,7 +280,7 @@ The checkpoint 1 assignment is worth 20 points, and asks you to answer the follo
 
 ### Checkpoint 2 Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The second one is due on **Tuesday, November 26st**. You can submit the checkpoint [here](https://www.gradescope.com/courses/877914/assignments/5313131/) on Gradescope.
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The second one is due on **Tuesday, November 26th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/877914/assignments/5313131/) on Gradescope.
 
 The checkpoint 2 assignment is worth 20 points, and asks you to answer the following questions:
 
