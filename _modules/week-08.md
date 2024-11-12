@@ -8,6 +8,7 @@ days:
         type: proj
         title: Final Project Checkpoint 1
         reading: ''
+        url: https://dsc80.com/proj04/#submission-and-rubric
       - name: LEC 16
         type: lecture
         title: Hyperparameters, Cross-Validation, and Decision Trees
