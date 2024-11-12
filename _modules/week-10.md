@@ -20,5 +20,5 @@ days:
         type: proj
         title: Final Project
         reading: ''
-        url: https://dsc80.com/proj04/#submission-and-rubric
+        url: https://dsc80.com/proj04/
 ---
