@@ -74,7 +74,7 @@ Before choosing a dataset, read the rest of this page to see what's required of 
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the [`dsc80-2024-sp`](https://github.com/dsc-courses/dsc80-2024-sp/) repo. Within the `projects/proj04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-sp/blob/main/projects/04-The%20Data%20Science%20Lifecycle/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2024-fa`](https://github.com/dsc-courses/dsc80-2024-fa/) repo. Within the `projects/project04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-sp/blob/main/projects/04-The%20Data%20Science%20Lifecycle/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the three [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -181,7 +181,7 @@ If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github
 
 1. Create a GitHub account, if you don't already have one.
 1. Create a new GitHub repository for your project.
-   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2024-sp](https://github.com/dsc-courses/dsc80-2024-sp) is [dsc-courses.github.io/dsc80-2024-sp](https://dsc-courses.github.io/dsc80-2024-sp)).
+   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2024-fa](https://github.com/dsc-courses/dsc80-2024-fa) is [dsc-courses.github.io/dsc80-2024-fa](https://dsc-courses.github.io/dsc80-2024-fa)).
    - As such, **don't** include "DSC 80" or "Final Project" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for DSC 80 at UCSD in the repository description.
    - **Make sure to make your repository public.**
    - Select "ADD a README file." This ensures that your repository starts off non-empty, which is necessary to continue.
@@ -269,7 +269,7 @@ The above instructions give you all you need to create and make updates to your 
 
 ### Checkpoint 1 Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The first checkpoint is due on **Friday, May 24th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4503144/) on Gradescope.
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The first checkpoint is due on **Tuesday, November 19th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/877914/assignments/5313145/) on Gradescope.
 
 The checkpoint 1 assignment is worth 20 points, and asks you to answer the following questions:
 
@@ -280,7 +280,7 @@ The checkpoint 1 assignment is worth 20 points, and asks you to answer the follo
 
 ### Checkpoint 2 Submission
 
-As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The second one is due on **Friday, May 31st**. You can submit the checkpoint [here](https://www.gradescope.com/courses/759147/assignments/4509099/) on Gradescope.
+As mentioned at the top of this page, this project **does** have two checkpoints, which is worth 1% of your overall grade. The second one is due on **Tuesday, November 26st**. You can submit the checkpoint [here](https://www.gradescope.com/courses/877914/assignments/5313131/) on Gradescope.
 
 The checkpoint 2 assignment is worth 20 points, and asks you to answer the following questions:
 
