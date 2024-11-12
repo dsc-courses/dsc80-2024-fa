@@ -12,6 +12,8 @@ days:
       - name: LEC 14
         type: lecture
         title: Feature Engineering
+        blank: resources/lectures/lec14/lec14-live.html
+        filled: resources/lectures/lec14/lec14.html
         reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)'
   - date: '2024-11-14'
     events:
