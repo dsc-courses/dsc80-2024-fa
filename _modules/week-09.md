@@ -8,7 +8,7 @@ days:
         type: proj
         title: Final Project Checkpoint 2
         reading: ''
-        url: https://dsc80.com/proj04/#submission-and-rubric
+        url: https://dsc80.com/proj04/
       - name: LEC 18
         type: lecture
         title: Classifier Evaluation and Model Fairness
