@@ -20,6 +20,8 @@ days:
       - name: LEC 15
         type: lecture
         title: Standardization, Multicollinearity, and Generalization
+        blank: resources/lectures/lec16/lec16-live.html
+        filled: resources/lectures/lec16/lec16.html
         reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
   - date: '2024-11-15'
     events:
