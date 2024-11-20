@@ -20,6 +20,8 @@ days:
       - name: LEC 17
         type: lecture
         title: Decision Trees and Random Forests
+        blank: resources/lectures/lec17/lec17-live.html
+        filled: resources/lectures/lec17/lec17.html
         reading: '[A1](resources/other/15097-decision-trees.pdf)'
   - date: '2024-11-22'
     events:
