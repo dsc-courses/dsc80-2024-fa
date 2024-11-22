@@ -29,6 +29,7 @@ days:
         type: lab
         title: Hypothesis and Permutation Testing
         reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab04
       - name: PREP 4
         type: disc
         title: Exam Prep 4

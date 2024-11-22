@@ -8,6 +8,7 @@ days:
         type: lab
         title: Missing Values and Imputation
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab05
   - date: '2024-11-05'
     events:
       - name: PROJ 3
@@ -35,10 +36,12 @@ days:
         type: lab
         title: HTTP and HTML
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab06
       - name: PREP 6
         type: disc
         title: Exam Prep 6
         reading: ''
         blank: discussions/disc06/disc06_worksheet.pdf
         filled: discussions/disc06/disc06_solutions.pdf
+
 ---

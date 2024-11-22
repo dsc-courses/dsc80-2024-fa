@@ -29,6 +29,7 @@ days:
         type: lab
         title: Regular Expressions and Text Data
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab07
       - name: PREP 7
         type: disc
         title: Exam Prep 7

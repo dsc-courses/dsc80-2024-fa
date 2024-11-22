@@ -29,6 +29,7 @@ days:
         type: lab
         title: Modeling and Feature Engineering
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab08
       - name: PREP 8
         type: disc
         title: Exam Prep 8
