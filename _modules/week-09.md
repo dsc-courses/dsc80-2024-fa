@@ -22,6 +22,7 @@ days:
         type: lab
         title: Pipelines
         reading: ''
+        url: https://github.com/dsc-courses/dsc80-2024-fa/tree/main/labs/lab09
       - name: PREP 9
         type: disc
         title: Exam Prep 9
