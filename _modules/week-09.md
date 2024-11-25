@@ -12,6 +12,8 @@ days:
       - name: LEC 18
         type: lecture
         title: Classifier Evaluation and Model Fairness
+        blank: resources/lectures/lec18/lec18-live.html
+        filled: resources/lectures/lec18/lec18.html
         reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html)'
   - date: '2024-11-28'
     events:
