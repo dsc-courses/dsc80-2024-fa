@@ -12,13 +12,6 @@ days:
     events:
       - name: LEC 20
         type: lecture
-        title: 'Guest Lecture: LLMs'
+        title: 'Guest Lecture: LLMs (1:30pm-3:00pm in the HDSI MPR)'
         reading: ''
-  - date: '2024-12-06'
-    events:
-      - name: FINAL PROJ
-        type: proj
-        title: Final Project
-        reading: ''
-        url: https://dsc80.com/proj04/
 ---
